@@ -1,0 +1,22 @@
+[
+    {
+        "name":"ETHER",
+        "image_url":"./images/coin/ether1.png"
+    },
+    {
+        "name":"USDT",
+        "image_url":"./images/coin/tether1.png"
+    },
+    {
+        "name":"BNB",
+        "image_url":"./images/coin/bnb1.png"
+    },
+    {
+        "name":"LITECOIN",
+        "image_url":"./images/coin/litecoin1.png"
+    },
+    {
+        "name":"DOGE",
+        "image_url":"./images/coin/doge1.png"
+    }
+]
